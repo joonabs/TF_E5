@@ -1,9 +1,7 @@
 first commmit 
 Second commit
 new branch
-<<<<<<< HEAD
 Paska tuote taa GITGUT
-=======
 Third commit by Joel
 Osaako se Henri
->>>>>>> refs/remotes/origin/master
+
